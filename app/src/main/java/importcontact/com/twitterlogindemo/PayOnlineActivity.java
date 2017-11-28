@@ -15,6 +15,7 @@ import com.stripe.android.model.Token;
 import io.fabric.sdk.android.Fabric;
 
 public class PayOnlineActivity extends AppCompatActivity {
+    String a;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
