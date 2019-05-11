@@ -28,8 +28,9 @@ import com.twitter.sdk.android.core.TwitterSession;
 import com.twitter.sdk.android.core.identity.TwitterAuthClient;
 import com.twitter.sdk.android.core.identity.TwitterLoginButton;
 import io.fabric.sdk.android.Fabric;
-
-
+ 
+// TESting the command line
+           
 public class MainActivity extends AppCompatActivity {
     private TwitterLoginButton loginButton;
     private Button button, button1;
